@@ -2,9 +2,18 @@ Imagine um estúdio de animação que está no processo de modernizar suas opera
 
 
 
-Modelo Conceitual: https://github.com/LexSeiffert/BDProjetosPessoais/assets/141280572/0b848e66-f68d-4b86-8fc8-db1e5f03a014
+
+
+Modelo Conceitual: 
+
+<img src="https://github.com/LexSeiffert/BDProjetosPessoais/assets/141280572/0b848e66-f68d-4b86-8fc8-db1e5f03a014">
 
 
 
+Modelo Lógico: 
 
-Modelo Lógico: https://github.com/LexSeiffert/BDProjetosPessoais/assets/141280572/d0a2ec2f-eb84-4e95-86ca-a4df3a4beb31
+<img src="https://github.com/LexSeiffert/BDProjetosPessoais/assets/141280572/d0a2ec2f-eb84-4e95-86ca-a4df3a4beb31">
+
+Tecnologia Usada: https://www.postgresql.org/
+
+Autor: https://github.com/LexSeiffert
